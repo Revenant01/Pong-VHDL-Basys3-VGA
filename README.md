@@ -144,8 +144,8 @@ Rendering is achieved by comparing the current beam position `(horizontal, verti
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Revenant01/FPGA-Pong.git
-cd FPGA-Pong
+git clone https://github.com/Revenant01/Pong-VHDL-Basys3-VGA.git
+cd Pong-VHDL-Basys3-VGA
 ```
 
 ### 2. Open in Vivado
