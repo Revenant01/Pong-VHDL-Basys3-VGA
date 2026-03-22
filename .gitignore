@@ -1,0 +1,28 @@
+# Xilinx Vivado generated files
+*.jou
+*.log
+*.str
+*.mif
+*.xpr.bak
+
+# Vivado run directories (synthesis/implementation artefacts)
+PingPongGame/PingPongGame.runs/
+PingPongGame/PingPongGame.sim/
+PingPongGame/PingPongGame.ip_user_files/
+PingPongGame/PingPongGame.cache/
+PingPongGame/PingPongGame.gen/
+PingPongGame/.Xil/
+
+# Bitstream & programming files
+*.bit
+*.bin
+*.mcs
+*.prm
+
+# Reports & timing
+*.rpt
+*.dcp
+
+# OS artefacts
+.DS_Store
+Thumbs.db
